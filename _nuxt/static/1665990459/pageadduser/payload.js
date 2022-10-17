@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pageadduser", {data:[{}],fetch:{},mutations:[]});

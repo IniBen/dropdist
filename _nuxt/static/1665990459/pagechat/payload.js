@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pageChat", {data:[{}],fetch:{},mutations:[]});
