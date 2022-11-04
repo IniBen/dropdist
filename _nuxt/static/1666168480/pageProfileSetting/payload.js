@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/pageProfileSetting", {data:[{}],fetch:{},mutations:[]});

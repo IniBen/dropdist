@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/pageSignup", {data:[{}],fetch:{},mutations:[]});
