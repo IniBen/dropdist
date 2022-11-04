@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/pageWishList", {data:[{}],fetch:{},mutations:[]});
